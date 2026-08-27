@@ -33,3 +33,20 @@
 
 **📫 Connect with Me:**  
 [Codeforces](https://codeforces.com/profile/maheecse) • [Codolio](https://codolio.com/profile/maheecse) • [LinkedIn](https://linkedin.com/in/shahriar-ibne-alam-mahee-1754963a6)
+<div align="center">
+
+# Hi, I'm Shahriar Ibne Alam Mahee 👋
+### Competitive Programmer & CSE Student | Passionate about C++
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+at+IIUC;Passionate+about+Problem+Solving;Always+learning+new+tech!" alt="Typing SVG" />
+</p>
+
+</div>
+
+---
+
+**📌 About Me:**
+
+```bash
+maheecse@github:~$ cat about_me.txt
