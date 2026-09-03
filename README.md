@@ -5,14 +5,6 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Student+at+IIUC;Passionate+about+Problem+Solving;Always+learning+new+tech!" alt="Typing SVG" />
 </p>
 
----
-
-**🛠️ Languages & Tools:**  
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-
----
 
 **🔥 GitHub Stats & Streak:**
 <p align="center">
