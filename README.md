@@ -34,6 +34,22 @@
   </a>
 </p>
 
+## 🚀 Featured Projects
+
+<p align="center">
+  <a href="https://cse-2340-software-development-1-oir.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Photography_Portfolio-Live-8B5CF6?style=for-the-badge" />
+  </a>
+</p>
+
+| Project | Description | Live Demo |
+|---|---|---|
+| 🚗 **CarDEX** | Car exploration and information website | [Visit Website](https://maheecse.github.io/CarDEX/) |
+| 📸 **Mahee's Photography** | Personal photography portfolio | [Visit Website](https://maheecse.github.io/mahees-photography-0.2/) |
+| 📊 **Data Mining** | Data mining related project | [Visit Website](https://maheecse.github.io/trying/#outline) |
+| 💻 **Personal Portfolio** | Personal profile and portfolio website | [Visit Website](https://maheecse.github.io/portfolio/) |
+| 🌐 **Carenza** | Web development project (In Progress) | [Visit Website](https://maheecse.github.io/Carenza/) |
+
 ## 📊 GitHub Activity
 
 <p align="center">
